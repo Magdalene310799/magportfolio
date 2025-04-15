@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/magportfolio/static/css/main.735f7cff.css",
+    "main.js": "/magportfolio/static/js/main.7e544f0b.js",
+    "static/js/453.1407b060.chunk.js": "/magportfolio/static/js/453.1407b060.chunk.js",
+    "static/media/photo1.jpg": "/magportfolio/static/media/photo1.29eb1bb08c44b50693f8.jpg",
+    "static/media/mypic.jpg": "/magportfolio/static/media/mypic.bfcf3bac08f4c9128ad8.jpg",
+    "static/media/photo2.jpg": "/magportfolio/static/media/photo2.e9a7b28bebd7a2984968.jpg",
+    "static/media/photo3.jpg": "/magportfolio/static/media/photo3.f21bb63ed73638f04083.jpg",
+    "static/media/magdu.jpg": "/magportfolio/static/media/magdu.74b95667df91cf22bef9.jpg",
+    "index.html": "/magportfolio/index.html",
+    "main.735f7cff.css.map": "/magportfolio/static/css/main.735f7cff.css.map",
+    "main.7e544f0b.js.map": "/magportfolio/static/js/main.7e544f0b.js.map",
+    "453.1407b060.chunk.js.map": "/magportfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.735f7cff.css",
+    "static/js/main.7e544f0b.js"
+  ]
+}
