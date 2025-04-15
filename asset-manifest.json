@@ -1,20 +1,29 @@
 {
   "files": {
-    "main.css": "/magportfolio/static/css/main.735f7cff.css",
-    "main.js": "/magportfolio/static/js/main.7e544f0b.js",
+    "main.css": "/magportfolio/static/css/main.1b90f8ca.css",
+    "main.js": "/magportfolio/static/js/main.6e4f1481.js",
     "static/js/453.1407b060.chunk.js": "/magportfolio/static/js/453.1407b060.chunk.js",
     "static/media/photo1.jpg": "/magportfolio/static/media/photo1.29eb1bb08c44b50693f8.jpg",
     "static/media/mypic.jpg": "/magportfolio/static/media/mypic.bfcf3bac08f4c9128ad8.jpg",
+    "static/media/nimmu.png": "/magportfolio/static/media/nimmu.6aa4a8ebdfb89b06c352.png",
+    "static/media/fathima.jpg": "/magportfolio/static/media/fathima.98a90aa4b962bedb5396.jpg",
     "static/media/photo2.jpg": "/magportfolio/static/media/photo2.e9a7b28bebd7a2984968.jpg",
+    "static/media/malu.jpg": "/magportfolio/static/media/malu.6114c123f4da0ff504ee.jpg",
+    "static/media/sunilsir.jpg": "/magportfolio/static/media/sunilsir.a171794b50ad821f764f.jpg",
+    "static/media/nishu.jpg": "/magportfolio/static/media/nishu.a6657f4efa56d1405afd.jpg",
     "static/media/photo3.jpg": "/magportfolio/static/media/photo3.f21bb63ed73638f04083.jpg",
+    "static/media/khalid.jpg": "/magportfolio/static/media/khalid.e309b1843e009faa3753.jpg",
     "static/media/magdu.jpg": "/magportfolio/static/media/magdu.74b95667df91cf22bef9.jpg",
+    "static/media/anoop.JPG": "/magportfolio/static/media/anoop.462a5f3fab1cc71bf8bb.JPG",
+    "static/media/noleeacha.JPG": "/magportfolio/static/media/noleeacha.217449009f27ddc0441d.JPG",
+    "static/media/emblem1.jpg": "/magportfolio/static/media/emblem1.3e88843f2d344b5131cb.jpg",
     "index.html": "/magportfolio/index.html",
-    "main.735f7cff.css.map": "/magportfolio/static/css/main.735f7cff.css.map",
-    "main.7e544f0b.js.map": "/magportfolio/static/js/main.7e544f0b.js.map",
+    "main.1b90f8ca.css.map": "/magportfolio/static/css/main.1b90f8ca.css.map",
+    "main.6e4f1481.js.map": "/magportfolio/static/js/main.6e4f1481.js.map",
     "453.1407b060.chunk.js.map": "/magportfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.735f7cff.css",
-    "static/js/main.7e544f0b.js"
+    "static/css/main.1b90f8ca.css",
+    "static/js/main.6e4f1481.js"
   ]
 }
