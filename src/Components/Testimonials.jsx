@@ -4,6 +4,8 @@ import ReviewData from "../data/TestimonialData";
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap/dist/js/bootstrap.min.js'
 
+import image1 from '../images/emblem1.jpg'
+
 
 const Testimonial = () => {
 
