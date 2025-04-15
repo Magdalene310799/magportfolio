@@ -82,7 +82,7 @@ const Education = () => {
                 
                   <h1 class="education-degree">{edu.degree}</h1>
                   <div class="education-header">
-                    <img src={"/assets/images/" +edu.emblem} alt={`${edu.institution} emblem`} class="education-emblem"/>
+                  <img src={process.env.PUBLIC_URL + '/assets/images/' + edu.emblem} alt={`${edu.institution} emblem`} class="education-emblem"/>
                     <h1 class="education-institution">{edu.institution}</h1>
                   </div>
                   
